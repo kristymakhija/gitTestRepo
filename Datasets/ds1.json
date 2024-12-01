@@ -1,5 +1,6 @@
 {
 	"name": "Dataset1",
     "value": "abc",
-    "description": "Added Description 1234"
+    "description": "Added Description 1234",
+    "tag": "testing tags"
 }
